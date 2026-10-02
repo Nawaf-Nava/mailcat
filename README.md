@@ -2,7 +2,7 @@
 
 <p align="center">
 	<img src="https://github.com/sharsil/mailcat/blob/main/logo.png?raw=true" height="200"/>
-</p>
+</p> 
 
 ---
 
